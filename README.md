@@ -1,7 +1,7 @@
 # Arviq Digital Solution ⚡
 
 [![Official Website](https://img.shields.io/badge/Website-arviqdigitalsolution.live-CCFF00?style=for-the-badge&logo=googlechrome&logoColor=07070A)](https://www.arviqdigitalsolution.live/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Connect%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918698169897?text=Hi%20Arviq%20Digital%20Solution!)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Connect%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917020210988?text=Hi%20Arviq%20Digital%20Solution!)
 [![Location](https://img.shields.io/badge/Headquarters-India-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.arviqdigitalsolution.live/)
 
 > **Arviq Digital Solution** is a high-performance digital engineering, performance marketing, and generative AI search optimization (AEO & GEO) agency in India. We engineer sub-2-second loading web applications, manage high-intent Google Ads campaigns, and optimize brand entities for AI search engines.
